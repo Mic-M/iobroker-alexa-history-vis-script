@@ -5,7 +5,7 @@
  * stellt diese in einem Datenpunkt in einem JSON zur Verfügung zur Anzeige in einer VIS-Tabelle.
 * ------------------------------------------------------------------------------- 
  * Aktuelle Version: https://github.com/Mic-M/iobroker.alexa-history-vis-script/
- * Support:          (Link folgt)
+ * Support:          https://forum.iobroker.net/topic/30657/
  * Autor:            Mic (ioBroker) | Mic-M (github)
  * ------------------------------------------------------------------------------- 
  * Voraussetzungen / Empfehlungen:
