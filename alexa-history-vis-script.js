@@ -19,7 +19,7 @@
 
 // Datenpunkt-Pfad, der das JSON für die VIS-Tabelle enthalten soll.
 // Es wird die Anlage sowohl unterhalb '0_userdata.0' als auch 'javascript.x' unterstützt.
-const STATE_PATH = '0_userdata.0.Geräte.Sonos.Alexa-History-Script.JSON_Table';
+const STATE_PATH = '0_userdata.0.Alexa-History-Script.JSON_Table';
 
 // Hier können einzelne Spalten hinzugefügt, entfernt, oder die Spalten-Reihenfolge verändert werden.
 // Mögliche Spalten: ['time, 'name', 'serialNumber', 'summary', 'status', 'domainApplicationId', 'cardContent', 'card'];
